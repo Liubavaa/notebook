@@ -1,4 +1,4 @@
-# notebook
+![](https://user-images.githubusercontent.com/92572643/155994463-b622bb9e-5173-4f74-a87f-2bb35f9f1e81.png)
 
 Realization of notebook
 
@@ -81,5 +81,3 @@ Changed first memo
 Enter an option: 5
 Thank you for using your notebook today.
 ```
-
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freelancer.com%2Fcontest%2FDesign-a-logo-for-writing-software-Notebook-291974-byentry-7263745&psig=AOvVaw0Gzsnt3Qtcs6fpIkF4uFn7&ust=1646141661547000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPDZ74nCovYCFQAAAAAdAAAAABAS![image](https://user-images.githubusercontent.com/92572643/155993847-c8a292a8-052b-477b-bc33-d5ca7ee675fd.png)
