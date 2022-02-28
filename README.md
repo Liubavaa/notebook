@@ -1,4 +1,4 @@
-![](https://user-images.githubusercontent.com/92572643/155994463-b622bb9e-5173-4f74-a87f-2bb35f9f1e81.png)
+![image](https://github.com/Liubavaa/notebook/blob/main/noteb2.png)
 
 Realization of notebook
 
